@@ -3,8 +3,7 @@
 </h1>
 
 # 🌱 Eco.Book 🌱
-texto sobre
-e imagem sobre o projeto
+
 
 
 
